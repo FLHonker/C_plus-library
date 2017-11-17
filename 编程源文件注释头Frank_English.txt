@@ -1,0 +1,16 @@
+/***************************************************************************
+*Copyright (c) 2017,Wuhan
+*All rights reserved.
+*
+*filename: linkedlist.h
+*description: linked-list writen by c,define some functions and data structures.
+*
+*@Version£ºV1.0
+*@author£ºFrank Liu
+*@time£º20171117
+*
+*Change record 1: // Change history record, including modification date, version number, modification person and modification contents
+*change-time      version          change-author         change-content
+
+* 20171117         V1.0              Frank                  create
+*******************************************************************************/
